@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lakshan Chinthaka</h1>
 <h3 align="center">Undergraduate 👨‍🎓| Software Engineering 👨‍💻</h3>
-<img align="right" alt="coding" width="400" scr"https://gifdb.com/gif/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.html">
+<img align="right" alt="coding" width="400" scr="https://gifdb.com/gif/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.html">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshanchinthaka&label=Profile%20views&color=0e75b6&style=flat" alt="lakshanchinthaka" /> </p>
 
