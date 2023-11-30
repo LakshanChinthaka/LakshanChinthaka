@@ -16,7 +16,7 @@ Undergraduate 👨‍🎓| Software Engineering 👨‍💻
 * 🧠  I'm learning Spring Boot | React.js
 * ⚡  I think I'am so Funny
 
-### Skills
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Skills
 
 
 <p align="left">
@@ -24,16 +24,18 @@ Undergraduate 👨‍🎓| Software Engineering 👨‍💻
 </p>
 
 
-### Socials
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Socials
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/lakshan-chinthaka-5090ab218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lakshan-chinthaka-5090ab218" height="30" width="40" /></a>
 <a href="https://instagram.com/lakshan_chinthaka_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakshan_chinthaka_" height="30" width="40" /></a>
 </p>
 
-### Badges
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">  Badges
 
 <b>My GitHub Stats</b>
-
+  <a href="https://github.com/Pepyn0">
+    <img width=450 height=170 align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api?username=Pepyn0&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
 
 <a href="http://www.github.com/LakshanChinthaka"><img src="https://github-readme-stats.vercel.app/api?username=LakshanChinthaka&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="LakshanChinthaka's GitHub stats" /></a>
 
