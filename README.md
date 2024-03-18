@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="300" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 
-## I am Lakshan Chinthaka  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="20">
+# Hi 👋, I'm Lakshan Chinthaka  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="20">
 
 Undergraduate 👨‍🎓| Software Engineering 👨‍💻
 -----------------------------------------------
