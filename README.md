@@ -2,7 +2,7 @@
 
 Undergraduate 👨‍🎓| Software Engineering 👨‍💻
 -----------------------------------------------
-* 🧠 **I'm Specializing Node.Js | React.js | Tailwind CSS | MySQL**
+* 🧠 **I'm Specializing Node.Js | React.js | Tailwind CSS | MySQL | MongoDB | AWS Service**
 * ✉️ **You can contact me at [chinthaka21022@gmail.com](mailto:chinthaka21022@gmail.com)**
 
 
