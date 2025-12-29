@@ -1,6 +1,6 @@
 # Hi 👋, I'm Lakshan Chinthaka  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="20">
 
-Undergraduate 👨‍🎓| Software Engineering 👨‍💻
+Full-Stack Developer 👨‍💻
 -----------------------------------------------
 * 🧠 **I'm Specializing Node.Js | React.js | Tailwind CSS | MySQL | MongoDB | AWS Service**
 * ✉️ **You can contact me at [chinthaka21022@gmail.com](mailto:chinthaka21022@gmail.com)**
